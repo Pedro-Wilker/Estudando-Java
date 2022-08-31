@@ -1,0 +1,19 @@
+recursividade é quando um metodo invoca uma nova execução de si mesmo após executado. 
+
+- Fatoria com While: 
+Trabalhando com a variavel long, o valor maximo que vc ira conseguir fatorar é 9223372036854775808 ou o fatorial de 37.
+Por quê usar long? Neste caso, usamos long porque numeros fatoriais são grandes e em muitos casos é preciso usar bastante
+espaço na memória para guarda-los.  
+
+Neste caso no inicio do while, onde utilizamos a variavel que recebeu o numero para ser fatora do while(num>1) logo o a 
+variavel num é recursiva pois até ela ser menor ou igual a 1 ela ira invocar uma nova execução de si mesma. 
+
+- Fatorial com Recursividade:
+ 
+É possivel cria classes com efeitos de laços de repetição sem declarar while, do while ou for, utilizando a chamada do méto
+do (só que passando valores diferentes a cada passo).
+
+
+
+
+
