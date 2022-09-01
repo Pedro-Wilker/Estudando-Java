@@ -14,6 +14,21 @@ variavel num é recursiva pois até ela ser menor ou igual a 1 ela ira invocar u
 do (só que passando valores diferentes a cada passo).
 
 
+- Classes e Objetos 
+ 
+Classe é o como chamamos no mundo fora do computador como "tipos", exemplo se eu falar "Um felino perigoso esta a solta"
+vc logo imagina um leão, um trigre... isso porque voce oq é um tipo de felino. 
+Logo classes são tipos para os computadores. Por isso dizemos que Java é uma linguagem tipada. 
+
+Deixando mais limpo uma classe pode ser utilizada para criar uma variavel e utilizar eu seu programa e para instanciar uma 
+classe vc precisa do comando construtor "new", ex: Atleta jogador= new Atleta();
+
+ .Intanciação 
+
+ Usando uma construção de uma casa como exemplo, temos então que a planta é a  classe(tipo) dessa casa, e objetos dessa classe
+seriam casas construidas com base nessa planta e instanciar uma classe seria o ato de criar uma casa de acordo as instruções 
+dessa planta. 
+ Ou seja, instaciar uma classe significa criar um objeto de acordo com as instruções dessa classe. 
 
 
 
