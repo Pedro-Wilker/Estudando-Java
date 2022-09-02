@@ -1,11 +1,10 @@
 package Classes;
 
-
-public class testeAtleta {
+public class TesteAtletaPgto {
     public static void main(String[] args) {
         Atleta atleta = new Atleta();
         atleta.inserirDados();
         atleta.atualizarValor();
-        atleta.mostrar();
+        atleta.atualizarPatrocinio();
     }
 }
